@@ -1,0 +1,5 @@
+#Ignore all these files
+
+*.csv
+*.log
+*.pyc
